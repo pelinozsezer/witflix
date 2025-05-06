@@ -1,7 +1,7 @@
 # WitFlix Project
 
 ## Overview
-WitFlix is a project created to showcase my skills in HTML and CSS after three weeks of learning. This project aims to replicate a specific webpage design to demonstrate my understanding of basic web development concepts.
+WitFlix is a project created to showcase my skills in HTML and CSS after a week of learning. This project aims to replicate a specific webpage design to demonstrate my understanding of basic web development concepts.
 
 ## Project Goal
 The goal was to recreate a webpage that closely resembles the reference design below.
